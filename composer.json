@@ -1,0 +1,27 @@
+{
+  "name": "jmoati/deployer-flex",
+  "description": "3rd party deployer recipes",
+  "type": "library",
+  "keywords": [
+    "deployer",
+    "recipes",
+    "deploy",
+    "deployment",
+    "docker",
+    "flex"
+  ],
+  "homepage": "https://github.com/Jmoati/deployer-flex",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jacques Moati",
+      "email": "jacques@moati.net"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "files": [
+      "autoload.php"
+    ]
+  }
+}
